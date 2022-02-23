@@ -44,6 +44,7 @@
                         </div>
                     @endif
                 </div>
+                <a href="{{route('tasks.create')}}" class="btn btn-success"><i class="fa fa-plus"></i>Create new tasks</a>
             </div>
         </div>
     </div>
